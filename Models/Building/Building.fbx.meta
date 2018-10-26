@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 6b5c2d8856350cc4ca08a268d2d32dc2
+timeCreated: 1518434591
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Building
+    100004: Stairs
+    400000: //RootNode
+    400002: Building
+    400004: Stairs
+    2100000: Stairs
+    2100002: DiningRoom_Walls
+    2100004: Outside
+    2100006: Kitchen_Floor
+    2100008: DownstairsBathroom_Walls
+    2100010: LivingRoom_Walls
+    2100012: Kitchen_Walls
+    2100014: MainBedroom_Floor
+    2100016: SecondBedroom_Floor
+    2100018: Ceiling
+    2100020: MainBedroom_Walls
+    2100022: UpstairsBathroom_Walls
+    2100024: Ensuite_Walls
+    2100026: SecondBedroom_Walls
+    2100028: DoorFrame
+    2100030: LivingRoom_Floor
+    2100032: DiningRoom_Floor
+    2100034: DownstairsBathroom_Floor
+    2100036: UpstairsBathroom_Floor
+    2100038: Ensuite_Floor
+    2100040: Landing_Floor
+    2300000: Building
+    2300002: Stairs
+    3300000: Building
+    3300002: Stairs
+    4300000: Stairs
+    4300002: Building
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: c489891a01d21634db81bb5bb23941f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiningRoom_Floor
+    second: {fileID: 2100000, guid: bd589917078d35a4a9b44a2afce62729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiningRoom_Walls
+    second: {fileID: 2100000, guid: 09eac9fa3f59fff41be30ad95102f094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorFrame
+    second: {fileID: 2100000, guid: fe4df53637f9c794c9807ae982a0f8bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DownstairsBathroom_Floor
+    second: {fileID: 2100000, guid: d9306a9a077007c46951f6e17f43f6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DownstairsBathroom_Walls
+    second: {fileID: 2100000, guid: 7c7783e4cdde6924b92befeb010b0512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ensuite_Floor
+    second: {fileID: 2100000, guid: 9129acd0289485d4fabe8f8a6b8a5fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ensuite_Walls
+    second: {fileID: 2100000, guid: 15917d4ffeccc0f40ad9059aea7449cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Floor
+    second: {fileID: 2100000, guid: 871e8419861d49e4e97398ad71c2374b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Walls
+    second: {fileID: 2100000, guid: 4c34f86cd8a2f0945a56d2b44bf986bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Landing_Floor
+    second: {fileID: 2100000, guid: 6322b6fd988ba30498ff04b7bf3a794b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoom_Floor
+    second: {fileID: 2100000, guid: a0d6d6de71e972440a7f95192f089be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LivingRoom_Walls
+    second: {fileID: 2100000, guid: b93d39435944c5d43a608f7be78631b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainBedroom_Floor
+    second: {fileID: 2100000, guid: 2e99fae3fecc09c4ab717bede6ab1e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainBedroom_Walls
+    second: {fileID: 2100000, guid: fa9a056a9519a0f40b1d87577cc34e24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outside
+    second: {fileID: 2100000, guid: bc52f8dd0d9054246b92624dd5d21755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondBedroom_Floor
+    second: {fileID: 2100000, guid: d398601dfb524db498c67ab3941cb00a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SecondBedroom_Walls
+    second: {fileID: 2100000, guid: 02d882fcec102a74da7676e4b4acb9c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs
+    second: {fileID: 2100000, guid: 7eaf5100cf140a14796fb8513987d7e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UpstairsBathroom_Floor
+    second: {fileID: 2100000, guid: 68afef2a8a708f248825748cc1224f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UpstairsBathroom_Walls
+    second: {fileID: 2100000, guid: 8b7b85ad2b4d9da4080b5d91f592e0a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.6
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
